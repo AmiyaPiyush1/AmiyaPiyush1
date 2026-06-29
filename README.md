@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Amiya
 
-<!--
-**AmiyaPiyush1/AmiyaPiyush1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer Open Source @ Oppia Foundation
 
-Here are some ideas to get you started:
+I'm a Full-Stack Software Engineer from IIT Bhubaneswar passionate about building scalable software and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+- React
+- Next.js
+- Angular
+- Node.js
+- Python
+- PostgreSQL
+- Docker
+- Redis
+
+---
+
+### 🌱 Currently Working On
+
+- Automatic Translation System for Oppia Foundation
+  https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
+
+- Full-Stack Development
+
+---
+
+### 🏆 Highlights
+
+- 🚀 Open Source Contributor
+- 🌍 Building software used by thousand of learners globally
+- 💻 800+ DSA problems solved
+- 🎓 IIT Bhubaneswar
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-profile
+- LeetCode: https://leetcode.com/u/Amiya_Piyush/
+- Codeforces: https://codeforces.com/profile/Piyush_AF1
