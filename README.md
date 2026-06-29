@@ -14,8 +14,6 @@ I'm a Full-Stack Software Engineer from IIT Bhubaneswar passionate about buildin
 - Node.js
 - Python
 - PostgreSQL
-- Docker
-- Redis
 
 ---
 
