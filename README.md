@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amiya
+# Hi 👋, I'm Piyush
 
 ## Software Engineer Open Source @ Oppia Foundation
 
