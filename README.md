@@ -8,18 +8,9 @@ Mentored new Open Source Contributors
 
 ---
 
-### 🚀 Tech Stack
-
-- React
-- Next.js
-- Angular
-- Node.js
-- Python
-- PostgreSQL
-
 ---
 
-### 🌱 Project
+### 🌱 Project 
 
 - Automatic Translation System for Oppia Foundation
   - https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
