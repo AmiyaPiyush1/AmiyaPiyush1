@@ -22,8 +22,8 @@ Mentored new Open Source Contributors
 ### 🌱 Project
 
 - Automatic Translation System for Oppia Foundation
-  https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
-  https://github.com/oppia/oppia/issues/24714
+  - https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
+  - https://github.com/oppia/oppia/issues/24714
 
   The project is a full-stack engineering initiative divided into three primary technical challenges:
 
