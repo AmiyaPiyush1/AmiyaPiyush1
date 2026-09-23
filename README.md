@@ -37,6 +37,6 @@ I'm a Full-Stack Software Engineer from IIT Bhubaneswar passionate about buildin
 
 ### 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/amiya-piyush-88794b288/
 - LeetCode: https://leetcode.com/u/Amiya_Piyush/
 - Codeforces: https://codeforces.com/profile/Piyush_AF1
