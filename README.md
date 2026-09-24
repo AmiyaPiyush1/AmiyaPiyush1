@@ -27,7 +27,6 @@
     Backend Architecture & Provider Mapping: An administrative interface and corresponding backend APIs are required to map specific languages to different translation providers, allowing admins to configure which machine translation service handles which language.
     
     Frontend Safeguards & Dashboard Integration: The Contributor Dashboard requires a specialized UI to handle incoming API suggestions. This includes implementing warning screens, alt-text review safeguards, and specific UI states that track whether a volunteer edited the machine translation or submitted it unedited.
-- Full-Stack Development
 
 ---
 
