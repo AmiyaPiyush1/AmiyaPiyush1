@@ -2,9 +2,9 @@
 
 ## Open Source Contributor and Maintainer @ Oppia Foundation
 - https://github.com/oppia
-I'm an Open Source Contributor and Maintainer from IIT Bhubaneswar passionate about building scalable software and contributing to open source.
-Got Merged 15+ production quality Pull requests
-Mentored new Open Source Contributors
+- I'm an Open Source Contributor and Maintainer from IIT Bhubaneswar passionate about building scalable software and contributing to open source.
+- Got Merged 15+ production quality Pull requests merged .https://github.com/oppia/oppia/pulls?q=is%3Apr+is%3Amerged+author%3AAmiyaPiyush1
+- Mentored new Open Source Contributors
 
 ---
 
@@ -15,6 +15,10 @@ Mentored new Open Source Contributors
 - Automatic Translation System for Oppia Foundation
   - https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
   - https://github.com/oppia/oppia/issues/24714
+ 
+  - Notable PRs
+  - https://github.com/oppia/oppia/pull/27277
+  - https://github.com/oppia/oppia/pull/26408
 
   The project is a full-stack engineering initiative divided into three primary technical challenges:
 
