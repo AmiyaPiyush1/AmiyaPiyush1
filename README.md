@@ -13,15 +13,15 @@
 ### 🌱 Project 
 
 - Automatic Translation System for Oppia Foundation
-  - https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
-  - https://github.com/oppia/oppia/issues/24714
+  - A full-stack translation system that automatically translates learning content into multiple languages, integrating backend translation services, caching, preprocessing, and an admin interface to deliver scalable multilingual content to learners globally.
+
+  - TDD - https://docs.google.com/document/d/10KgFZlmoTIHgOMuaIZJlbm9vXMaowMUzeoupM-Crv7A/edit?tab=t.0
+  - Tracking issue -  https://github.com/oppia/oppia/issues/24714
  
-  - Notable PRs
+- Notable PRs
   - https://github.com/oppia/oppia/pull/27277
   - https://github.com/oppia/oppia/pull/26408
-
-  The project is a full-stack engineering initiative divided into three primary technical challenges:
-
+ 
     HTML Pre/Post-Processing & Caching: Oppia's educational content is stored in complex, dynamic HTML structures. The system requires advanced Regex algorithms to parse, extract, and sanitize only the translatable text while strictly preserving the underlying HTML tags and formatting. It also utilizes intelligent text-caching mechanisms to minimize duplicate API calls to translation providers, effectively reducing latency and operational costs.
     
     Backend Architecture & Provider Mapping: An administrative interface and corresponding backend APIs are required to map specific languages to different translation providers, allowing admins to configure which machine translation service handles which language.
